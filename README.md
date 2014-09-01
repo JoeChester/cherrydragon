@@ -2,7 +2,7 @@ CherryDragon
 ============
 ##### Unity3D 4.3 Mobile Game by Jonas Kleinkauf 
 <p align="center">
-[![CherryDragon](https://raw.githubusercontent.com/JoeChester/cherrydragon/dev/icon_.png)](http://joechester.github.io/cherrydragon/)
+[![CherryDragon](https://raw.githubusercontent.com/JoeChester/cherrydragon/dev/icon_.png =250x)](http://joechester.github.io/cherrydragon/)
 
 
 CherryDragon is a Cross-Platform mobile game project made with Unity3D 4.3.
