@@ -12,4 +12,4 @@ Move the little dragon with the accelerometers of your phone and try to catch ch
 Dependencies
 ------------
 
-This Project is based on the [Toolkit 2D](http://www.unikronsoftware.com/2dtoolkit/) Unity Plugin which needed to be excluded from this repository.
+CherryDragon uses the [Toolkit 2D](http://www.unikronsoftware.com/2dtoolkit/) Unity Plugin which needed to be excluded from this repository for licence issues.

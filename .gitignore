@@ -1,0 +1,11 @@
+# Toolkit2D
+Assets/TK2DROOT/*
+*.apk
+
+.DS_Store
+Library
+Temp
+*.pidb
+*.unityproj
+*.userprefs
+*.suo
