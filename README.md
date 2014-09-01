@@ -5,6 +5,9 @@ CherryDragon
 [![CherryDragon](https://github.com/JoeChester/cherrydragon/blob/master/icon_medium.png)](http://joechester.github.io/cherrydragon/)
 
 
+Description
+-----------
+
 CherryDragon is a Cross-Platform mobile game project made with Unity3D 4.3.
 Move the little dragon with the accelerometers of your phone and try to catch cherries that fall from the top to improve your score while avoiding bombs.
 
